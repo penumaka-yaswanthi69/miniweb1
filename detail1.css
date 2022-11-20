@@ -1,0 +1,53 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-ice-cream-blackboard-background_23-2148989213.jpg?w=1060&t=st=1668871338~exp=1668871938~hmac=673ca80b85f732ae9ee167eeca5e498592215cd43f669e9e909fd5edd6e026fa");
+    background-size: auto;
+    height: 170vh;
+}
+.headfirst{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight:600;
+    padding:25px ;
+}
+.bgcardcarousel{
+    background-color:aquamarine;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 425px;
+    height: 600px;
+    width: 1000px;
+}
+.h4{
+    font-weight: bold;
+}
+
+.first{
+    font-size: 20px;
+    font-weight: 700;
+}
+.second{
+    font-size: 20px;
+  }
+.third{
+    font-size: 20px;
+    font-weight: 600;
+}
+.cardon{
+    padding: 20px;
+}
+
+.headsecond{
+    color: deeppink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight:bolder;
+}
+.paraline{
+    color: lightcoral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.cost{
+    font-size: 25px;
+}
